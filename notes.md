@@ -7,7 +7,7 @@ Main features of an object oriented language:
 
   - encapsulation => objects have method/properties. Within the object we encapsulate data and behavior, data variables, behavior methods and its all packaged inside the object.
 
-  inheritance => 
+  - inheritance => 
 
 Features released in ES6:
   - destructing
